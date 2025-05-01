@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": ""
+    "link": "https://weibo.com/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": ""
+    "link": "https://pan.baidu.com/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": ""
+    "link": "https://www.kugou.com/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": ""
+    "link": "https://www.baidu.com/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": ""
+    "link": "https://www.hao123.com/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": ""
+    "link": "https://www.toutiao.com/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": ""
+    "link": "https://www.itdog.cn/"
   }
 ]
